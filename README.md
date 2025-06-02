@@ -87,7 +87,7 @@ source('scripts/2D.R')
 
 ---
 
-## 📄 Citation
+## Citation
 
 If you use this code or data in your research, please cite:
 
@@ -95,7 +95,7 @@ If you use this code or data in your research, please cite:
 
 ---
 
-## 📝 License
+## License
 
 MIT License. See [LICENSE](LICENSE) file for details.
 
