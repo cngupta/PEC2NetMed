@@ -5,7 +5,7 @@
 Neuropsychiatric disorders lack effective treatments due to a limited understanding of underlying cellular and molecular mechanisms. To address this, we integrated population-scale single-cell genomics data and analyzed cell-type-level gene regulatory networks across schizophrenia, bipolar disorder, and autism (23 cell classes/subclasses). Our analysis revealed potential druggable transcription factors co-regulating known risk genes that converge into cell-type-specific co-regulated modules. We applied graph neural networks on those modules to prioritize novel risk genes and leveraged them in a network-based drug repurposing framework to identify 220 drug molecules with the potential for targeting specific cell types. We found evidence for 37 of these drugs in reversing disorder-associated transcriptional phenotypes. Additionally, we discovered 335 drug-cell QTLs drug-associated cell-type eQTLs, revealing genetic variation's influence on drug target expression at the cell-type level. Our results provide a single-cell network medicine resource that provides mechanistic insights for advancing treatment options for neuropsychiatric disorders.
 
 ---
-![Figure1](Fig1.tiff)
+![Figure1](Figure1.png)
 
 ---
 
