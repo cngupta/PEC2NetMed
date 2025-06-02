@@ -72,9 +72,8 @@ Run the following script to download the required datasets:
 
 ---
 
-## Run the Analysis
-
-From the command line:
+## Reproduce figures in manuscript
+Example from the command line:
 
 ```bash
 Rscript scripts/2D.R
